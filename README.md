@@ -28,8 +28,8 @@ Display all the images with their respective edge detected images.
 
 # Program :
 ```
-Name : Sanjay V
-Reg No: 212223230188
+Name : Sanjai S
+Reg No: 212223230186
 ```
 ```
 import cv2
